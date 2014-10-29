@@ -1,0 +1,26 @@
+Orbital elements: 
+(262623)
+   Perihelion 2006 Aug 1.056547 TT =  1:21:25 (JD 2453948.556547)
+Epoch 2006 Dec  7.0 TT = JDT 2454076.5   Earth MOID: 0.2621   Ve: 0.0565
+M 129.34240              (2000.0)            P               Q
+n   1.01093413     Peri.  159.95624     -0.13776712      0.87945865     
+a   0.98322778     Node    99.90417     -0.96007374     -0.00550119     
+e   0.3329335      Incl.   27.54816     -0.24347203     -0.47594350     
+P   0.97/356.10d   H   18.9     G   0.15   q 0.65587823  Q 1.31057733
+From 16 observations 2006 Dec. 7-2007 Jan. 28; mean residual 0".516.
+# State vector (heliocentric ecliptic J2000):
+#    0.660855000189   0.957290231279  -0.425478094494 AU
+#   -7.722844531784  10.391896387905   3.036095431258 mAU/day
+# MOIDs: Me  0.2131 Ve  0.0565 Ea  0.2621 Ma  0.3061
+# MOIDs: Ju  3.7889 Sa  7.7241 Ur 17.3843 Ne 28.5554
+# Elements written: 29 Oct 2014 13:23:38 (JD 2456960.058079)
+# Full range of obs: 2006 Nov. 17-2011 Jan. 11 (179 observations)
+# Find_Orb ver: Oct  6 2014 12:24:54
+# Perturbers: 00000000 (unperturbed orbit)
+# Tisserand relative to Earth: 2.67506
+# Tisserand relative to Jupiter: 6.01891
+# Tisserand relative to Neptune: 30.88429
+# %20$Name=(262623)  $Ty=2006  $Tm=08  $Td=01.056547  $MA=129.34240
+#  $ecc=0.3329336  $Eqnx=2000.
+#  $a=0.9832278  $Peri=159.95624  $Node=99.90418  $Incl=27.54817
+#  $EpJD=2454076.500  $q=0.655878  $T=2453948.556547  $H=18.9
