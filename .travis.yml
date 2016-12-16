@@ -1,13 +1,11 @@
-language: python
-python:
-  - "3.3"
-  - "2.7"
-services:
-  - redis-server
-install:
-  - pip install --upgrade pip coveralls
-  - pip install .[tests]
+# Enable C++ support
+language: cpp
+# Compiler selection
+compiler:
+  - clang
+  - gcc
+# Build steps
 script:
-  - nosetests
-after_success:
-  - coveralls
+  - mkdir build
+  - cd build
+  - cmake .. && make
